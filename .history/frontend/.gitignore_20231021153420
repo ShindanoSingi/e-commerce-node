@@ -1,0 +1,9 @@
+node_modules
+myText.txt
+.history
+node_modules
+.env
+./backend/.env
+./backend/myText.txt
+./config/dbConnect.js
+req.REST
