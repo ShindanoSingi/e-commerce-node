@@ -1,0 +1,11 @@
+All videos
+
+https://www.youtube.com/watch?v=eu0rExO_C3A&list=PL0g02APOH8olUaSJUReizC6KQXTrGYNU6&index=23
+
+Backend
+https://www.youtube.com/watch?v=S6Yd5cPtXr4&t=30896s
+
+Front end
+https://www.youtube.com/watch?v=eu0rExO_C3A&list=PL0g02APOH8olUaSJUReizC6KQXTrGYNU6&index=23
+
+Deploy on Railway
